@@ -1,0 +1,38 @@
+.lay1 {
+	background-color: lightblue;
+	height: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.lay2 {
+	background-color: lightblue;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.layout{
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	display: flex; 
+}
+.layout >div{
+	margin: 20px;
+	background-color: lightblue;
+	height: 250px;
+	width: 450px;
+	justify-content: flex-start;
+}
+.footer{
+	height:50px;
+	background-color: lightblue;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+
+}
